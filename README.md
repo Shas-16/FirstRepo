@@ -3,7 +3,7 @@
 Here's our todo:
 
 - [x] Create a new file
-- [ ] Make our first commit
-- [ ] Fix this typo
+- [x] Make our first commit
+- [x] Fix this typo
 
 Checking Change
